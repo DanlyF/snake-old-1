@@ -1,0 +1,8 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Игра «Змейка» - первый проект в VibeCode",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
